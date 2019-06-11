@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\images"
   ],
+  "SelectedNode": "\\assets\\css\\font-awesome.min.css",
   "PreviewInSolutionExplorer": false
 }
